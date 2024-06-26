@@ -116,3 +116,5 @@ select * from salary order by salary asc;
 //descending order
 
 select * from salary order by salary desc;
+
+select * from table_name;
